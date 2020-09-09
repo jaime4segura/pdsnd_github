@@ -1,9 +1,8 @@
 
 import time
 import pandas as pd
-import numpy as np
 
-#Defining parameters
+#Defining parameters for the program, 3 dictionaries and 2 lists
 city_data = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
@@ -178,6 +177,7 @@ def user_stats(df):
 
 
 def rawdata(df):
+    """Ask user if he/she wants to see 5 lines of raw data"""
     check=str(input("Would you like to see 5 lines of raw data? y/n "))
     check=check.lower()
     while check!='y' and check!="n":
