@@ -1,7 +1,6 @@
 
 import time
 import pandas as pd
-import numpy as np
 
 #Defining parameters for the program, 3 dictionaries and 2 lists
 city_data = { 'Chicago': 'chicago.csv',
