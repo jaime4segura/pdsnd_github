@@ -178,6 +178,7 @@ def user_stats(df):
 
 
 def rawdata(df):
+    """Ask user if he/she wants to see 5 lines of raw data"""
     check=str(input("Would you like to see 5 lines of raw data? y/n "))
     check=check.lower()
     while check!='y' and check!="n":
