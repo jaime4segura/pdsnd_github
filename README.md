@@ -5,7 +5,7 @@ This project was created on 09/08/20
 Final Project Udacity
 
 ### Description
-Describe what your project is about and what it does
+This is the final project, I will be exploring the features learnt in the course
 
 ### Files used
 Include the files used
