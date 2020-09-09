@@ -8,8 +8,11 @@ Final Project Udacity
 This is the final project, I will be exploring the features learnt in the course
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+All was done with the Udacity course for Git
