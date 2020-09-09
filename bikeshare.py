@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import numpy as np
 
-#Defining parameters
+#Defining parameters for the program, 3 dictionaries and 2 lists
 city_data = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
